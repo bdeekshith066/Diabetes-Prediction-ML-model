@@ -50,6 +50,3 @@ Diabetes is a prevalent health concern, and early prediction can play a pivotal 
 
 Contributions are welcome! Whether you're enhancing the model, adding features, or improving documentation, follow the standard GitHub workflow. Fork the repository, create a branch, make changes, and submit a pull request.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
